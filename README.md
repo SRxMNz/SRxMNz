@@ -7,14 +7,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/S4NMNZ">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=S4NMNZ&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />

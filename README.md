@@ -2,20 +2,13 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/S4NMNZ">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=S4NMNZ&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="right" height="200" src="https://images.genius.com/82e369d9846090531e0e7fae59d8af01.1000x333x1.jpg"  />
 
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/mnz4real" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/5511912225775?text=Oii%2C%20vim%20pelo%20github" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  <a href="https://open.spotify.com/user/S4NMNZ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=S4NMNZ&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -51,6 +44,13 @@
 
 ###
 
-<img align="right" height="200" src="https://images.genius.com/82e369d9846090531e0e7fae59d8af01.1000x333x1.jpg"  />
+<div align="center">
+  <a href="https://www.instagram.com/mnz4real" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5511912225775?text=Oii%2C%20vim%20pelo%20github" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
 
 ###
